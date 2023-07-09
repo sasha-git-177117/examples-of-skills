@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test suite" parallel="classes" thread-count="10">
+
+    <test name="AuthorizationTestCase">
+        <classes>
+            <class name="tests.AuthorizationTestCase">
+            </class>
+        </classes>
+    </test>
+    <test name="HelpFormTestCase">
+        <classes>
+            <class name="tests.HelpFormTestCase">
+            </class>
+        </classes>
+    </test>
+    <test name="CookiesFormTestCase">
+        <classes>
+            <class name="tests.CookiesFormTestCase">
+            </class>
+        </classes>
+    </test>
+    <test name="TestCase4">
+        <classes>
+            <class name="tests.TimerFormTestCase">
+            </class>
+        </classes>
+    </test>
+</suite>
