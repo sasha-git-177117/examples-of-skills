@@ -1,0 +1,20 @@
+{
+  "checkBox": {
+    "avatarPage" : {
+      "label": {
+        "selectAll": "selectall",
+        "unselectAll": "unselectall"
+      }
+    }
+  },
+  "timer" : {
+    "startTime" : "00:00:00"
+  },
+  "button" : {
+    "loginPage" : {
+      "textOnButton": {
+        "other" : "other"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "login" : {
+    "lengthPassword" : 12,
+    "lengthEmail" : 15,
+    "lengthDomain" : 5,
+    "regexPassword" : "[a-z0-9A-Z]*[А-Яа-я]{0,1}[a-z0-9]*[A-Z]+[a-z0-9]*"
+  },
+  "user" : {
+    "countInterests" : 3
+  }
+}
